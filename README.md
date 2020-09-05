@@ -1,3 +1,5 @@
+![Sinesp Logo](/docs/images/Sinesp.png)
+
 # Sinesp Cidadão
 
 Repositório da disciplina Requisitos de Software para o aplicativo Sinesp.
