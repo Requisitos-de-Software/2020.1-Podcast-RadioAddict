@@ -1,0 +1,1053 @@
+
+
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      <link rel="shortcut icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-5.5.14">
+    
+    
+      
+        <title>Elicitação - Sinesp</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.d3202873.min.css">
+      
+      
+    
+    
+    
+      
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>body,input{font-family:"Roboto",-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono",SFMono-Regular,Consolas,Menlo,monospace}</style>
+      
+    
+    
+    
+    
+      
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#introspeccao" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid" aria-label="Header">
+    <a href=".." title="Sinesp" class="md-header-nav__button md-logo" aria-label="Sinesp">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 003-3 3 3 0 00-3-3 3 3 0 00-3 3 3 3 0 003 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    <label class="md-header-nav__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header-nav__title" data-md-component="header-title">
+      
+        <div class="md-header-nav__ellipsis">
+          <span class="md-header-nav__topic md-ellipsis">
+            Sinesp
+          </span>
+          <span class="md-header-nav__topic md-ellipsis">
+            
+              Elicitação
+            
+          </span>
+        </div>
+      
+    </div>
+    
+      <label class="md-header-nav__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active">
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" data-md-component="search-reset" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+        
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Sinesp" class="md-nav__button md-logo" aria-label="Sinesp">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 003-3 3 3 0 00-3-3 3 3 0 00-3 3 3 3 0 003 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    Sinesp
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href=".." title="Home" class="md-nav__link">
+      Home
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../equipe/" title="Equipe" class="md-nav__link">
+      Equipe
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../planejamento/" title="Panejamento" class="md-nav__link">
+      Panejamento
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Elicitação
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+    
+    <a href="./" title="Elicitação" class="md-nav__link md-nav__link--active">
+      Elicitação
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#personas" class="md-nav__link">
+    Personas:
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#persona-1" class="md-nav__link">
+    Persona 1
+  </a>
+  
+    <nav class="md-nav" aria-label="Persona 1">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#requisitos-elicitados-introspeccao-persona-1" class="md-nav__link">
+    Requisitos Elicitados (Introspecção - Persona 1)
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#persona-2" class="md-nav__link">
+    Persona 2
+  </a>
+  
+    <nav class="md-nav" aria-label="Persona 2">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#requisitos-elicitados-introspeccao-2" class="md-nav__link">
+    Requisitos Elicitados (Introspecção - 2)
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#persona-3" class="md-nav__link">
+    Persona 3
+  </a>
+  
+    <nav class="md-nav" aria-label="Persona 3">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#requisitos-elicitados-introspeccao-3" class="md-nav__link">
+    Requisitos Elicitados (Introspecção - 3)
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#brainstorming" class="md-nav__link">
+    Brainstorming
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#brainstorm-v1" class="md-nav__link">
+    Brainstorm V1
+  </a>
+  
+    <nav class="md-nav" aria-label="Brainstorm V1">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#requisitos-elicitados-brainstorming" class="md-nav__link">
+    Requisitos Elicitados (Brainstorming)
+  </a>
+  
+    <nav class="md-nav" aria-label="Requisitos Elicitados (Brainstorming)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#requisitos-funcionais" class="md-nav__link">
+    Requisitos Funcionais
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#requisitos-nao-funcionais" class="md-nav__link">
+    Requisitos Não Funcionais
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tecnicas-de-priorizacao" class="md-nav__link">
+    Técnicas de Priorização
+  </a>
+  
+    <nav class="md-nav" aria-label="Técnicas de Priorização">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#moscow" class="md-nav__link">
+    MoSCoW:
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#personas" class="md-nav__link">
+    Personas:
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#persona-1" class="md-nav__link">
+    Persona 1
+  </a>
+  
+    <nav class="md-nav" aria-label="Persona 1">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#requisitos-elicitados-introspeccao-persona-1" class="md-nav__link">
+    Requisitos Elicitados (Introspecção - Persona 1)
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#persona-2" class="md-nav__link">
+    Persona 2
+  </a>
+  
+    <nav class="md-nav" aria-label="Persona 2">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#requisitos-elicitados-introspeccao-2" class="md-nav__link">
+    Requisitos Elicitados (Introspecção - 2)
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#persona-3" class="md-nav__link">
+    Persona 3
+  </a>
+  
+    <nav class="md-nav" aria-label="Persona 3">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#requisitos-elicitados-introspeccao-3" class="md-nav__link">
+    Requisitos Elicitados (Introspecção - 3)
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#brainstorming" class="md-nav__link">
+    Brainstorming
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#brainstorm-v1" class="md-nav__link">
+    Brainstorm V1
+  </a>
+  
+    <nav class="md-nav" aria-label="Brainstorm V1">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#requisitos-elicitados-brainstorming" class="md-nav__link">
+    Requisitos Elicitados (Brainstorming)
+  </a>
+  
+    <nav class="md-nav" aria-label="Requisitos Elicitados (Brainstorming)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#requisitos-funcionais" class="md-nav__link">
+    Requisitos Funcionais
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#requisitos-nao-funcionais" class="md-nav__link">
+    Requisitos Não Funcionais
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tecnicas-de-priorizacao" class="md-nav__link">
+    Técnicas de Priorização
+  </a>
+  
+    <nav class="md-nav" aria-label="Técnicas de Priorização">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#moscow" class="md-nav__link">
+    MoSCoW:
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                  
+                
+                
+                <p><strong>Elicitação de Requisitos</strong></p>
+<h1 id="introspeccao"><strong>Introspecção</strong></h1>
+<p>Introspecção é uma técnica muito rica e profunda. Consiste em entender quais propriedades o sistema deve possuir para que seja um sucesso. Demanda o Engenheiro de Requisitos imaginar o que ele gostaria, se ele tivesse que desempenhar uma dada tarefa, com os equipamentos disponíveis e demais recursos. </p>
+<h2 id="personas"><strong>Personas:</strong></h2>
+<p>Persona é um personagem fictício de um grupo de usuários reais,
+criada para descrever um usuário típico. As personas são definidas por
+seus objetivos, que são determinados num processo de refinamentos
+sucessivos durante a investigação inicial do domínio de atividade do
+usuário</p>
+<h2 id="persona-1"><strong>Persona 1</strong></h2>
+<p><strong> </strong></p>
+<table>
+<thead>
+<tr>
+<th align="left">Persona</th>
+<th align="left">Aspirante Matias</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Nome</td>
+<td align="left">André Mathias</td>
+</tr>
+<tr>
+<td align="left">Profissão</td>
+<td align="left">Policia</td>
+</tr>
+<tr>
+<td align="left">Escolaridade</td>
+<td align="left">Superior Incompleto</td>
+</tr>
+<tr>
+<td align="left">Nível de conhecimentos sobre o aplicativo</td>
+<td align="left">Começou a utilizar o aplicativo recentemente para a pesquisa de carros roubados e acessar a lista de procurados.</td>
+</tr>
+<tr>
+<td align="left">História de contexto</td>
+<td align="left">Matias vive em uma cidade muito violenta. Virou policial por incentivo do seu pai que também era policial. Trabalha em período plantão em um ambiente bem estressante. Para facilitar a sua vida, passou a utilizar o aplicativo, pois, na maioria das vezes, é um forma mais rápida de pesquisa do que utilizar as ferramentas disponibilizadas pela corporação.</td>
+</tr>
+<tr>
+<td align="left">Sugestão para melhoria</td>
+<td align="left">Melhorar a infraestrutura do aplicativo, as vezes não consigo fazer as pesquisa com rapidez. Também poderiam</td>
+</tr>
+</tbody>
+</table>
+<h3 id="requisitos-elicitados-introspeccao-persona-1"><strong>Requisitos Elicitados (Introspecção - Persona 1)</strong></h3>
+<p><strong> </strong></p>
+<table>
+<thead>
+<tr>
+<th align="left">Código</th>
+<th align="center">Descrição</th>
+<th align="right">Prioridade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">RF01</td>
+<td align="center">possibilidade de buscar pendências judiciais</td>
+<td align="right">Must</td>
+</tr>
+<tr>
+<td align="left">RF02</td>
+<td align="center">Visualizar a lista de procurados pela justiça</td>
+<td align="right">Must</td>
+</tr>
+<tr>
+<td align="left">RF03</td>
+<td align="center">Realizar pesquisas sucessivas</td>
+<td align="right">Must</td>
+</tr>
+</tbody>
+</table>
+<h2 id="persona-2"><strong>Persona 2</strong></h2>
+<p><strong> </strong></p>
+<table>
+<thead>
+<tr>
+<th align="left">Persona</th>
+<th align="left">Guilherme de Oliveira</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Nome</td>
+<td align="left">Guilherme de Oliveira</td>
+</tr>
+<tr>
+<td align="left">Profissão</td>
+<td align="left">Administrador de Empresas</td>
+</tr>
+<tr>
+<td align="left">Escolaridade</td>
+<td align="left">Superior Completo</td>
+</tr>
+<tr>
+<td align="left">Nível de conhecimentos sobre o aplicativo</td>
+<td align="left">Não conhecia o aplicativo Sinesp até ser sugerido o seu uso.</td>
+</tr>
+<tr>
+<td align="left">História de contexto</td>
+<td align="left">Guilherme trabalha no Banco Central como gerente de negócios. Ele sempre chega ao trabalho pontualmente e sempre vai embora ao anoitecer. Na última vez que ele foi para o trabalho, ao sair do seu carro no estacionamento, foi abordado por duas pessoas e levaram o seu carro. Guilherme conversando com o seu colega de trabalho, foi sugerido que ele fizesse uma ocorrência e que, também, baixasse o aplicativo Sinesp para registrar o roubo de seu carro.</td>
+</tr>
+<tr>
+<td align="left">Sugestão para melhoria</td>
+<td align="left">Melhorar o sistema de cadastrar um roubo de carro. Para fazê-lo atualmente, precisei criar uma conta .gov e demorei ter acesso a minha conta para que, assim, eu concluísse o cadastro do roubo do meu carro</td>
+</tr>
+</tbody>
+</table>
+<h3 id="requisitos-elicitados-introspeccao-2"><strong>Requisitos Elicitados (Introspecção - 2)</strong></h3>
+<p><strong> </strong></p>
+<table>
+<thead>
+<tr>
+<th align="left">Código</th>
+<th align="left">Descrição</th>
+<th align="right">Prioridade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">RF01</td>
+<td align="left">Realizar busca de</td>
+<td align="right">Must</td>
+</tr>
+<tr>
+<td align="left"></td>
+<td align="left">situação do carro</td>
+<td align="right"></td>
+</tr>
+<tr>
+<td align="left">RF02</td>
+<td align="left">Realizar cadastro de</td>
+<td align="right">Must</td>
+</tr>
+<tr>
+<td align="left"></td>
+<td align="left">carro roubado/furtado</td>
+<td align="right"></td>
+</tr>
+</tbody>
+</table>
+<h2 id="persona-3"><strong>Persona 3</strong></h2>
+<p><strong> </strong></p>
+<table>
+<thead>
+<tr>
+<th align="left">Persona</th>
+<th align="left">Maria Aparecida</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Nome</td>
+<td align="left">Maria Aparecida</td>
+</tr>
+<tr>
+<td align="left">Profissão</td>
+<td align="left">Pedagoga</td>
+</tr>
+<tr>
+<td align="left">Escolaridade</td>
+<td align="left">Superior Completo</td>
+</tr>
+<tr>
+<td align="left">Nível de conhecimentos sobre o aplicativo</td>
+<td align="left">Conhecia o aplicativo e já tinha utilizado para verificar a situação do seu carro, mas nunca utilizou as demais funcionalidades dispostas pelo aplicativo.</td>
+</tr>
+<tr>
+<td align="left">História de contexto</td>
+<td align="left">Aparecida é professora de ensino infantil e ama o seu trabalho. Ela é casada e possui 3 filhos. Ao estar passeando com a sua família em um parque de diversões, um dos seus filhos (que possui apenas 5 anos) se perdeu dela e do restante da família. Aparecida não sabe exatamente o que aconteceu. Ela compareceu à administração do parque para informar o ocorrido e depois às autoridades. Ninguém parece saber o que aconteceu, mas todos suspeitam de sequestro. Como Aparecida sabe que o aplicativo Sinesp possui como uma das suas funcionalidades a visualização de pessoas desaparecidas, ela entra diariamente no aplicativo para ver se seu filho aparece nesta lista para que ela possa inserir uma foto dele com seus respectivos dados.</td>
+</tr>
+<tr>
+<td align="left">Sugestão para melhoria</td>
+<td align="left">Sem sugestão.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="requisitos-elicitados-introspeccao-3"><strong>Requisitos Elicitados (Introspecção - 3)</strong></h3>
+<p><strong> </strong></p>
+<table>
+<thead>
+<tr>
+<th align="left">Código</th>
+<th align="left">Descrição</th>
+<th align="left">Prioridade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">RF01</td>
+<td align="left">Acessar lista de desaparecidos</td>
+<td align="left">Must</td>
+</tr>
+<tr>
+<td align="left">RF02</td>
+<td align="left">Adicionar foto para a pessoa desaparecida</td>
+<td align="left">Should</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Versionamento</strong></p>
+<table>
+<thead>
+<tr>
+<th align="left">Código</th>
+<th align="center">Descrição</th>
+<th align="center">Prioridade</th>
+<th align="left">Autor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Versão</td>
+<td align="center">Data</td>
+<td align="center">Modificação</td>
+<td align="left">Autor</td>
+</tr>
+<tr>
+<td align="left"><strong>0.1</strong></td>
+<td align="center"><strong>15/09/2020</strong></td>
+<td align="center"><strong>Adição da introspecção</strong></td>
+<td align="left"><strong>Todos</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>0.2</strong></td>
+<td align="center"><strong>24/09/2020</strong></td>
+<td align="center"><strong>Adição de outras personas</strong></td>
+<td align="left"><strong>Fellipe Araujo</strong></td>
+</tr>
+</tbody>
+</table>
+<h2 id="brainstorming"><strong>Brainstorming</strong></h2>
+<p>O <strong>brainstorming</strong> é uma técnica que visa o compartilhamento espontâneo
+de idéias e a busca por ideias ou soluções. O termo em inglês significa
+“tempestade de ideias”. Essa metodologia/técnica objetiva explorar as
+ideias de um grupo de pessoas a fim de obter as melhores soluções.
+Normalmente utiliza-se essa técnica bem no início, quando não há muito
+conhecimento do produto, do processo e do projeto. Uma sessão bem
+sucedida de Brainstorming acorda um conjunto de boas ideias, no qual os
+participantes sentem que cada um contribuiu de alguma maneira para a
+solução do problema.</p>
+<h2 id="brainstorm-v1">Brainstorm V1</h2>
+<p><strong> </strong></p>
+<table>
+<thead>
+<tr>
+<th align="left">BRAINSTORM</th>
+<th align="left">*</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Data</td>
+<td align="left">15/09/2020</td>
+</tr>
+<tr>
+<td align="left">Local</td>
+<td align="left">Remoto</td>
+</tr>
+<tr>
+<td align="left">Objetivo</td>
+<td align="left">Trazer pensamentos inovadores em busca da resolução de problemas</td>
+</tr>
+<tr>
+<td align="left">Descrição</td>
+<td align="left">Foi unido todos os membros do grupo, todos compartilharam o máximo de ideias possíveis de forma espontânea. Nenhuma ideia sugerida foi descartada, todas foram anotadas e consideradas pela equipe.</td>
+</tr>
+</tbody>
+</table>
+<p><strong> </strong></p>
+<p><strong>Abaixo segue uma transcrição das principais ideias levantadas durante
+a reunião.</strong></p>
+<p>●       PB: O usuário tem fácil acesso a várias informações de segurança
+nacional. Além disso, é fornecido de forma muito rápida todas as
+informações que o usuário deseja.</p>
+<p>●       IG: O usuário tem a possibilidade pesquisar rapidamente um
+funcionário ou pessoa se tem alguma pendência com a justiça.</p>
+<p>●       FA: O usuário pode fazer uma busca de um carro informando a
+placa do mesmo e, assim, verificar a situação do carro
+(roubado/furtado). O usuário ainda pode registrar pelo aplicativo o seu
+carro como roubado/furtado.</p>
+<h3 id="requisitos-elicitados-brainstorming"><strong>Requisitos Elicitados (Brainstorming)</strong></h3>
+<h4 id="requisitos-funcionais"><strong>Requisitos Funcionais</strong></h4>
+<p><strong> </strong></p>
+<table>
+<thead>
+<tr>
+<th align="left">Código</th>
+<th align="left">Descrição</th>
+<th align="right">Prioridade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><strong>RF01</strong></td>
+<td align="left"><strong>oferecer informações de prisão aguardando comprimento</strong></td>
+<td align="right"><strong>Must</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>RF02</strong></td>
+<td align="left"><strong>O aplicativo deve oferecer informações de roubo ou furto de qualquer veículo.</strong></td>
+<td align="right"><strong>Must</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>RF03</strong></td>
+<td align="left"><strong>O aplicativo deve alertar situação de roubo ou furto.</strong></td>
+<td align="right"><strong>Should</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>RF04</strong></td>
+<td align="left"><strong>Consultar pessoas desaparecidas.</strong></td>
+<td align="right"><strong>Must</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>RF05</strong></td>
+<td align="left"><strong>Exibir a lista dos criminosos mais procurados pelo país.</strong></td>
+<td align="right"><strong>Should</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>RF06</strong></td>
+<td align="left"><strong>As seções para cada parte do aplicativo deve ter uma boa interação com o usuário.</strong></td>
+<td align="right"><strong>Must</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>RF07</strong></td>
+<td align="left"><strong> </strong></td>
+<td align="right"><strong> </strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong> </strong></p>
+<h4 id="requisitos-nao-funcionais"><strong>Requisitos Não Funcionais</strong></h4>
+<table>
+<thead>
+<tr>
+<th align="left">Código</th>
+<th align="left">Descrição</th>
+<th align="left">Prioridade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><strong>RNF01</strong></td>
+<td align="left"><strong>Rapidez na pesquisa ao banco de dados</strong></td>
+<td align="left"><strong>Must</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>RNF02</strong></td>
+<td align="left"><strong>Com restrição no  número de pesquisa</strong></td>
+<td align="left"><strong>Would</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>RNF03</strong></td>
+<td align="left"><strong>Base de dados atualizada</strong></td>
+<td align="left"><strong>Must</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>RNF04</strong></td>
+<td align="left"><strong>Confiabilidade dos dados</strong></td>
+<td align="left"><strong>Must</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>RNF05</strong></td>
+<td align="left"><strong>Página de suporte</strong></td>
+<td align="left"><strong>Should</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong> </strong></p>
+<p><strong>Versionamento</strong></p>
+<p><strong> </strong></p>
+<table>
+<thead>
+<tr>
+<th align="left">Código</th>
+<th align="center">Descrição</th>
+<th align="center">Prioridade</th>
+<th align="left">Autor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><strong>1.0</strong></td>
+<td align="center"><strong>15/09/2020</strong></td>
+<td align="center"><strong>Adição do Brainstorming</strong></td>
+<td align="left"><strong>Todos</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong> </strong></p>
+<h2 id="tecnicas-de-priorizacao">Técnicas de Priorização</h2>
+<p>Essa atividade consiste basicamente em determinar quais requisitos
+possuem mais importância dentro do escopo do projeto, levando em
+consideração não somente o ponto de vista do desenvolvedor mas
+principalmente do ponto de vista do cliente para que a equipe possa dar
+uma atenção maior para esses aspectos dentro do sistema.</p>
+<h3 id="moscow"><strong>MoSCoW:</strong></h3>
+<p><strong>      </strong>O MoSCoW é uma das técnicas mais simples existentes quando o
+assunto é priorização de requisitos. Ela consiste basicamente em dividir
+esses requisitos em quatro categorias diferentes: Must (M), Should (S),
+Could (C), Would (W). Sendo assim, para cada requisito do backlog é
+atribuída uma dessas quatro categorias.</p>
+<p><strong>Must:</strong> São os requisitos prioritários/críticos. Na maioria
+das vezes eles estão relacionados a normas legais (Business Requirement
+e Business Rules), isto é, ligados a regra de negócios. Requisitos
+também que se não forem implementados o sistema como um todo não pode
+ser avaliado como concluído.</p>
+<p><strong>Should:</strong> São aquelas funcionalidades que, vistas de um
+ponto estratégico, não precisam ser implementadas com urgência, para o
+primeiro momento. Normalmente, funcionalidades que podem ser
+reaproveitadas ou que o desenvolvimento de um outro projeto futuramente
+acabe economizando e aumentando a reutilização do código para o projeto
+em questão são avaliadas como “Should” também.</p>
+<p><strong>Could:</strong> Funcionalidades neste nível são aquelas que são
+desejáveis, porém não necessárias e que a depender da disponibilidade de
+recursos da empresa podem melhorar a satisfação do cliente.</p>
+<p><strong>Would:</strong> São os requisitos que não possuem muito retorno
+envolvido para o projeto, mas que em concordância com o cliente podem
+ser realizados, melhorando ainda mais o sistema.</p>
+<p>As <strong>vantagens</strong> de aplicar o MoSCoW é que ela é uma técnica
+muito simples e por isso as pessoas que desconhecem conseguem facilmente
+aprender e aplicar. As <strong>desvantagens</strong> é que ela possui um viés muito
+subjetivo, onde cada pessoa pode acabar determinando uma determinada
+prioridade para o mesmo requisito, e também tende a dar mais atenção e
+importância para os requisitos mais políticos, como citado em “Must”,
+além do cliente ter que demonstrar um bom conhecimento daquilo que ele
+deseja.</p>
+<p><strong> </strong></p>
+<p><strong>Versionamento</strong></p>
+<p><strong> </strong></p>
+<table>
+<thead>
+<tr>
+<th align="left">Código</th>
+<th align="center">Descrição</th>
+<th align="center">Prioridade</th>
+<th align="left">Autor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><strong>1.0</strong></td>
+<td align="center"><strong>15/09/2020</strong></td>
+<td align="center"><strong>Adição do Brainstorming</strong></td>
+<td align="left"><strong>Todos</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong> </strong></p>
+<p><strong> </strong></p>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
+        
+          <a href="../planejamento/" title="Panejamento" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-footer-nav__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+            </div>
+            <div class="md-footer-nav__title">
+              <div class="md-ellipsis">
+                <span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                Panejamento
+              </div>
+            </div>
+          </a>
+        
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../assets/javascripts/vendor.2d1db4bd.min.js"></script>
+      <script src="../assets/javascripts/bundle.6627ddf3.min.js"></script><script id="__lang" type="application/json">{"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents"}</script>
+      
+      <script>
+        app = initialize({
+          base: "..",
+          features: [],
+          search: Object.assign({
+            worker: "../assets/javascripts/worker/search.5eca75d3.min.js"
+          }, typeof search !== "undefined" && search)
+        })
+      </script>
+      
+    
+  </body>
+</html>
