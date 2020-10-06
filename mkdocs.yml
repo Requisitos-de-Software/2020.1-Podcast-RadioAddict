@@ -3,6 +3,14 @@ theme:
   name: material
 nav:
     - Home: index.md
-    - Equipe: equipe.md
-    - Panejamento: planejamento.md
-    - Elicitação: elicitacao.md
+    - Panejamento: Planning/planning.md
+    # - Rastreabilidade:
+    #   - Pré-Rastreabilidade:
+    #   - Pós-Rastreabilidade:
+    - Elicitação:
+      - Brainstorming: Elicitation/brainstorming.md
+      - Introspecção: Elicitation/introspection.md
+    - Priorização:
+      - MoSCoW: Priorization/moscow.md
+    - Equipe: Team/team.md
+    - Entregas: ControlPoints/control_points.md
