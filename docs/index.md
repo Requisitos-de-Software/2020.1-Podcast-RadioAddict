@@ -1,5 +1,5 @@
 <center>
-![Logo](../Images/download.jpeg)
+![Logo](./Images/download.jpeg)
 </center>
 
 # Sinesp 2020
@@ -16,7 +16,7 @@ artefatos, ferramentas, técnicas e outros recursos utilizados na
 Engenharia de Software.
 
 <center>
-![Img](../Images/wrapper-img.jpg)
+![Img](./Images/wrapper-img.jpg)
 </center>
 
 ## Sobre a aplicação 
