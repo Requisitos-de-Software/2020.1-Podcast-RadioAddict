@@ -1,0 +1,8 @@
+site_name: Sinesp
+theme:
+  name: material
+nav:
+    - Home: index.md
+    - Equipe: equipe.md
+    - Panejamento: planejamento.md
+    - Elicitação: elicitacao.md
