@@ -57,7 +57,7 @@ Código | Descrição | Prioridade
 **RF02** | Adicionar foto para a pessoa desaparecida | **Should**
 
 ## Versionamento
-Código | Descrição | Prioridade | Autor 
+Data | Código | Descrição | Autor 
 ------ | --------- | ---------- | ------
-0.1 | 15/09/2020 | Adição da introspecção | Fellipe, Itallo, Rafael e Paulo
-1.0 | 24/09/2020 | Adição de outras personas | Fellipe
+15/09/2020 | 0.1 | Adição da introspecção | Fellipe, Itallo, Rafael e Paulo
+24/09/2020 | 1.0 | Adição de outras personas | Fellipe

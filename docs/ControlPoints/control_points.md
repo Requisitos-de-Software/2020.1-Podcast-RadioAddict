@@ -9,6 +9,6 @@
 </center>
 
 ## Versionamento
-Código | Descrição | Prioridade | Autor 
+Data | Versão | Descrição | Autor 
 ------ | --------- | ---------- | --------
-1.0 | 06/10/2020 | Adição dos vídeos da apresentação | Fellipe
+06/10/2020 | 1.0 | Adição dos vídeos da apresentação | Fellipe

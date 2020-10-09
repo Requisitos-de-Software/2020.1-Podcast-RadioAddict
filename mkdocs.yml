@@ -12,5 +12,10 @@ nav:
       - Introspecção: Elicitation/introspection.md
     - Priorização:
       - MoSCoW: Priorization/moscow.md
+    - Modelagem:
+      - Cenários: Modeling/scenarios.md
+      - Léxicos: Modeling/lexicons.md
+      - Use Case: Modeling/useCase.md
+      - Especificação Suplementar: Modeling/supplementarySpecification.md
     - Equipe: Team/team.md
     - Entregas: ControlPoints/control_points.md

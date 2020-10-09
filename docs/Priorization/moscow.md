@@ -23,6 +23,6 @@ As <b>vantagens</b> de aplicar o MoSCoW é que ela é uma técnica muito simples
 </p>
 
 ## Versionamento
-Código | Descrição | Prioridade | Autor 
+Data | Versão | Descrição | Autor 
 ------ | --------- | ---------- | ------
-1.0 | 15/09/2020 | Adição do Brainstorming | Fellipe, Itallo, Rafael e Paulo
+15/09/2020 | 1.0 | Adição do Brainstorming | Fellipe, Itallo, Rafael e Paulo

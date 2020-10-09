@@ -47,6 +47,6 @@ Código     |       Descrição       |       Prioridade
 **RNF05** | Página de suporte | **Should**
 
 ## Versionamento
-Código | Descrição | Prioridade | Autor 
+Data | Versão | Descrição | Autor 
 ------ | --------- | ---------- | --------
-1.0 | 15/09/2020 | Adição do Brainstorming | Fellipe, Itallo, Rafael e Paulo
+15/09/2020 | 1.0 | Adição do Brainstorming | Fellipe, Itallo, Rafael e Paulo
