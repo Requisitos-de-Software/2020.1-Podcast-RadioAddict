@@ -42,11 +42,16 @@ Código     |       Descrição       |       Prioridade
 ---------- | --------------------- | -----------------------
 **RNF01** | Rapidez na pesquisa ao banco de dados | **Must**
 **RNF02** | Com restrição no número de pesquisa | **Would**
-**RNF03** | Base de dados atualizada | **Must**
+**RNF03** | Base de dados atualizada frequentemente | **Must**
 **RNF04** | Confiabilidade dos dados | **Must**
 **RNF05** | Página de suporte | **Should**
+**RNF06** | Busca de veículo informando se a placa é do mercosul ou não | **Could**
+**RNF07** | Busca de desaparecidos por filtro | **Should**
+**RNF08** | Busca de mandados por filtro | **Should**
+**RNF09** | Multiplataforma (Android, IOS, Tablets) | **Should**
 
 ## Versionamento
 Data | Versão | Descrição | Autor 
 ------ | --------- | ---------- | --------
 15/09/2020 | 1.0 | Adição do Brainstorming | Fellipe, Itallo, Rafael e Paulo
+08/10/2020 | 1.1 | Adição de mais requisitos não funcionais | Fellipe

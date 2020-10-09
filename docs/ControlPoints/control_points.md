@@ -8,7 +8,13 @@
 [![PC2](http://img.youtube.com/vi/d3C1_G_e2VM/0.jpg)](http://www.youtube.com/watch?v=d3C1_G_e2VM "PC2")
 </center>
 
+### Ponto de Controle 3
+<center>
+[![PC3](http://img.youtube.com/vi/RRLjPQ-udY4/0.jpg)](http://www.youtube.com/watch?v=RRLjPQ-udY4 "PC3")
+</center>
+
 ## Versionamento
 Data | Versão | Descrição | Autor 
 ------ | --------- | ---------- | --------
-06/10/2020 | 1.0 | Adição dos vídeos da apresentação | Fellipe
+06/10/2020 | 1.0 | Adição dos vídeos da apresentação do ponto de controle 1 e 2 | Fellipe e Itallo
+09/10/2020 | 1.1 | Adição do vídeo da apresentação do ponto de controle 3 | Fellipe e Itallo
