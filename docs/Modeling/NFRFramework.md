@@ -27,7 +27,7 @@ O NFR Framework é uma abordagem para representar e analisar Requisitos Não-Fun
 
 <center>
 
-[![Portabilidade - Performance e Portabilidade](../Images/nfrs/PerformancePortabilidadePropagação.jpg)](../Images/nfrs/Usabilidade-correto.png)
+[![Portabilidade - Performance e Portabilidade](../Images/nfrs/PerformancePortabilidadePropagação.jpg)](../Images/nfrs/PerformancePortabilidadePropagação.jpg)
 
 </center>
 
@@ -35,7 +35,8 @@ O NFR Framework é uma abordagem para representar e analisar Requisitos Não-Fun
 
 <center>
 
-[![Usabilidade ](../Images/nfrs/Usabilidade.png)](../Images/nfrs/Usabilidade-correto.png)
+[![Usabilidade ](../Images/nfrs/Usabilidade.png)](../Images/nfrs/Usabilidade.png)
+[![Usabilidade ](../Images/nfrs/Usabilidade-correto.png)](../Images/nfrs/Usabilidade-correto.png)
 
 </center>
 
@@ -43,9 +44,10 @@ O NFR Framework é uma abordagem para representar e analisar Requisitos Não-Fun
 
 <center>
 
-[![Confiabilidade ](../Images/nfrs/confiabilidade.png)](../Images/nfrs/confiabilidade-correto.png)
+[![Confiabilidade ](../Images/nfrs/confiabilidade.png)](../Images/nfrs/confiabilidade.png)
+[![Confiabilidade ](../Images/nfrs/confiabilidade-correto.png)](../Images/nfrs/confiabilidade-correto.png)
 
-</center>
+</center> 
 
 ### Referências
 
