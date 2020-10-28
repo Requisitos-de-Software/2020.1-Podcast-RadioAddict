@@ -17,5 +17,6 @@ nav:
       - Léxicos: Modeling/lexicons.md
       - Use Case: Modeling/useCase.md
       - Especificação Suplementar: Modeling/supplementarySpecification.md
+      - NFR Framework: Modeling/NFRFramework.md
     - Equipe: Team/team.md
     - Entregas: ControlPoints/control_points.md
