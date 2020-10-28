@@ -6,7 +6,7 @@ O Product Backlog é uma lista com prioridades dos requisitos ou funcionalidades
 
 ### Product Backlog
 
-![ProductBacklog](../Images/Product_Backlog.png)
+[![Confiabilidade ](../Images/Product_Backlog.png)](../Images/Product_Backlog.png)
 
 ### Referências
 
