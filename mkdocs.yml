@@ -4,9 +4,7 @@ theme:
 nav:
     - Home: index.md
     - Panejamento: Planning/planning.md
-    # - Rastreabilidade:
-    #   - Pré-Rastreabilidade:
-    #   - Pós-Rastreabilidade:
+    - Pré-Rastreabilidade:
     - Elicitação:
       - Brainstorming: Elicitation/brainstorming.md
       - Introspecção: Elicitation/introspection.md
