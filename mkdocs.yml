@@ -4,7 +4,7 @@ theme:
 nav:
     - Home: index.md
     - Panejamento: Planning/planning.md
-    - Pré-Rastreabilidade:
+    - Pré-Rastreabilidade: Analysis/Verification/rich_picture.md
     - Elicitação:
       - Brainstorming: Elicitation/brainstorming.md
       - Introspecção: Elicitation/introspection.md
