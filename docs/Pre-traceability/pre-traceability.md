@@ -3,6 +3,7 @@
 ## Introdução
 
 O Rich Picture é uma modelagem cuja notação permite analisar problemas e expressar ideias. Consiste em figuras, textos, símbolos e ícones, que são usados para ilustrar a situação que se deseja representar. O Rich Picture pode auxiliar na identificação de:
+
 * processos de negócios e seus requisitos;
 * atores envolvidos nos processos de negócio e suas responsabilidades;
 * relacionamentos entre processos e atores;
