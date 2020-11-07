@@ -4,9 +4,8 @@ theme:
 nav:
     - Home: index.md
     - Panejamento: Planning/planning.md
-    # - Rastreabilidade:
-    #   - Pré-Rastreabilidade:
-    #   - Pós-Rastreabilidade:
+    - Pré-Rastreabilidade:
+      - Rich picture: Pre-traceability/pre-traceability.md
     - Elicitação:
       - Brainstorming: Elicitation/brainstorming.md
       - Introspecção: Elicitation/introspection.md
@@ -19,6 +18,9 @@ nav:
       - Especificação Suplementar: Modeling/supplementarySpecification.md
       - Backlog: Modeling/productBacklog.md
       - NFR Framework: Modeling/NFRFramework.md
-
+    - Análise:
+      - Verificação:
+        - Rich Picture: Analysis/Verification/rich_picture.md
+        - Use Case: Analysis/Verification/use_cases.md
     - Equipe: Team/team.md
     - Entregas: ControlPoints/control_points.md
