@@ -22,5 +22,6 @@ nav:
       - Verificação:
         - Rich Picture: Analysis/Verification/rich_picture.md
         - Use Case: Analysis/Verification/use_cases.md
+        - NFR: Analysis/Verification/nfr.md
     - Equipe: Team/team.md
     - Entregas: ControlPoints/control_points.md
