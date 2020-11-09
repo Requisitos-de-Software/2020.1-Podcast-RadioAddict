@@ -21,10 +21,11 @@ nav:
     - Análise:
       - Verificação:
         - Rich Picture: Analysis/Verification/rich_picture.md
+        - Cenários: Analysis/Verification/scenarios.md
+        - Léxico : Analysis/Verification/Lexico.md
         - Use Case: Analysis/Verification/use_cases.md
         - Backlog: Analysis/Verification/backlog.md
         - NFR: Analysis/Verification/nfr.md
-        - Cenário : Analysis/Verification/cenarios.md
-        - Léxico : Analysis/Verification/Lexico.md
+      - Validação: Analysis/validation.md
     - Equipe: Team/team.md
     - Entregas: ControlPoints/control_points.md

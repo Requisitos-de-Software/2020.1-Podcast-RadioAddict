@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento tem como objetivo analisar e relatar se os artefatos dos casos de uso foram elaborados de forma correta e coerente. Para isso, foi utilizada a técnica de inspeção. Foi definida uma checklist, onde cada tópico foi avaliado e os defeitos detectados foram descritos para que possam ser corrigidos posteriormente.
+Este documento tem como objetivo analisar e relatar se os artefatos dos NFR's foram elaborados de forma correta e coerente. Para isso, foi utilizada a técnica de inspeção. Foi definida uma checklist, onde cada tópico foi avaliado e os defeitos detectados foram descritos para que possam ser corrigidos posteriormente.
 
 ## Rastreabilidade
 
