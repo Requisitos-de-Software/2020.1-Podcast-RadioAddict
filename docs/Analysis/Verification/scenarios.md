@@ -1,10 +1,16 @@
 # Cenários - Verificação
 
-## Introdução
 
+## Introdução
 A verificação dos cenários tem como objetivo relatar a detecção de defeitos nos artefatos referentes aos Cenários produzidos pelo grupo durante a etapa de modelagem. Para este fim, a utilização de um  checklist mostrou-se a maneira mais clara e eficaz para encontrar  possíveis falhas. Nos checklists elaborados, buscou-se uma forma de  padronizar a verificação dos artefatos requeridos, utilizando questões  importantes para o conjunto.
 
+
+## Rastreabilidade
+
+  [Léxico](../../Modeling/scenarios.md)
+
 ## Checklist
+
 
 Item | C1 | C2 | C3 | C4 | C5 | C6
 ------ | ---- | ---- | ----| ---- | ---- | ----
@@ -20,19 +26,18 @@ Item | C1 | C2 | C3 | C4 | C5 | C6
 10.Possui versionamento? | ❌ | ❌ | ❌ | ❌ | ❌ | ❌
 Porcentagem de Sucesso | 70% | 70% | 70% | 70% | 70% | 70%
 
-## Observações
 
 Cenário | Observações
 --------- | -----------------
 Todos | Revisar todos os cenários, e adicionar restrições, rastreabilidade e versionamento.
 
 ## Conclusão
-
 Pela análise feita a partir dos checkLists, os  modelos gerados pelo grupo para o Sinesp ficaram bons. A falha mais notável nos modelos foi a falta de restrições, rastreabilidade e versionamento. As causas prováveis são: questões de tempo, atenção ou alinhamento com os outros membros.
 
-## Referência
-
+## Referências
 [Página de verificação dos Cenários do grupo Audible - 2019.2](https://requisitos-de-software.github.io/2019.2-Audible/verificacao_cenarios/)
+
+[Aula de requisitos ](https://aprender3.unb.br/)
 
 ## Versionamento
 

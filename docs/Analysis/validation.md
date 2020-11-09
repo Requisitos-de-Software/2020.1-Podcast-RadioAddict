@@ -32,4 +32,4 @@ E para realizar essa técnica de validação, entramos em contato com a empresa 
 ## Versionamento
 Data | Versão | Descrição | Autor 
 ------ | --------- | ---------- | --------
-03/11/2020 | 0.1 | Introdução e metodologia | Rafael Ribeiro
+08/11/2020 | 0.1 | Introdução e metodologia | Rafael Ribeiro

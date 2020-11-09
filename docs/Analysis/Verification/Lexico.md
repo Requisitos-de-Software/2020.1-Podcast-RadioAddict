@@ -44,7 +44,7 @@ Este documento tem como objetivo relatar a detecção de defeitos nos artefatos 
 | L 	| Observações 	|
 |-	|-	|
 | Todos 	| - Revisar todos os léxicos e adicionar rastreabilidade onde seja necessário, ajudando no versionamento 	|
-| L05 	| Sinônimo Etranho 	|
+| L05 	| Sinônimo Estranho 	|
 | L07  	| Escolher outro sinônimo  	|
 | L06 	| Adicionar mais sinônimos  	|
 
@@ -60,4 +60,4 @@ O caso de uso estar de acordo com os critérios de qualidade estabelecidos,Apena
 ## Versionamento
 Data | Versão | Descrição | Autor 
 ------ | --------- | ---------- | --------
-06/11/2020 | 1.0 | Verificação dos Léxicos | Fellipe
+08/11/2020 | 1.0 | Verificação dos Léxicos | Itallo
