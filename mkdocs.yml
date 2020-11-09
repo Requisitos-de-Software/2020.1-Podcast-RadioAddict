@@ -21,6 +21,7 @@ nav:
     - Análise:
       - Verificação:
         - Rich Picture: Analysis/Verification/rich_picture.md
+        - Cenários: Analysis/Verification/scenarios.md
         - Use Case: Analysis/Verification/use_cases.md
         - Backlog: Analysis/Verification/backlog.md
         - NFR: Analysis/Verification/nfr.md
