@@ -24,5 +24,7 @@ nav:
         - Use Case: Analysis/Verification/use_cases.md
         - Backlog: Analysis/Verification/backlog.md
         - NFR: Analysis/Verification/nfr.md
+        - Cenário : Analysis/Verification/cenarios.md
+        - Léxico : Analysis/Verification/Lexico.md
     - Equipe: Team/team.md
     - Entregas: ControlPoints/control_points.md
