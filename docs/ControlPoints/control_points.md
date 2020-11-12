@@ -18,9 +18,15 @@
 [![PC4](http://img.youtube.com/vi/kj7QvaXL46M/0.jpg)](http://www.youtube.com/watch?v=kj7QvaXL46M "PC4")
 </center>
 
+### Ponto de Controle 5
+<center>
+[![PC5](http://img.youtube.com/vi/YAIxODxEazo/0.jpg)](http://www.youtube.com/watch?v=YAIxODxEazo "PC5")
+</center>
+
 ## Versionamento
 Data | Versão | Descrição | Autor 
 ------ | --------- | ---------- | --------
 06/10/2020 | 1.0 | Adição dos vídeos da apresentação do ponto de controle 1 e 2 | Fellipe e Itallo
 09/10/2020 | 1.1 | Adição do vídeo da apresentação do ponto de controle 3 | Fellipe e Itallo
 28/10/2020 | 1.2 | Adição do vídeo da apresentação do ponto de controle 4 | Fellipe e Itallo
+12/11/2020 | 1.3 | Adição do vídeo da apresentação do ponto de controle 5 | Fellipe e Itallo
