@@ -50,10 +50,15 @@ Ferramenta    |   Nome    |   Descrição
 ![logo GitHub](../Images/GitHub_logo.png) | [Github](https://github.com/) | Plataforma que será utilizada para gerir e unificar aquilo que o grupo desenvolver
 ![logo Drive](../Images/GoogleDrive_logo.png) | [Google Drive](https://www.google.com/intl/pt-BR/drive/) | Plataforma para permitir a edição simultânea de arquivos por todos do grupo
 ![logo telegram](../Images/Telegram_logo.png) | [Telegram](https://web.telegram.org/#/login)| Ferramenta de comunicação para avisos gerais, marcar datas de reunião, entre outros
+![logo figma](../Images/figma_logo.png) | [Figma](https://www.figma.com/)| É um editor gráfico de vetor e prototipagem de projetos
 
 
 Requisitos de Software 2020, Sinesp
 [Github](https://github.com/Requisitos-de-Software/2020.1-Sinesp). All
 rights reserved.
 
-
+## Versionamento
+Data | Versão | Descrição | Autor 
+------ | --------- | ---------- | --------
+15/09/2020 | 1.0 | Criação do documento| Todos
+11/11/2020 | 1.1 | Adicionado a ferramenta Figma | Rafael Ribeiro
