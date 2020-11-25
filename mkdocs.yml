@@ -9,6 +9,7 @@ nav:
     - Elicitação:
       - Brainstorming: Elicitation/brainstorming.md
       - Introspecção: Elicitation/introspection.md
+      - Questionário: Elicitation/quiz.md
     - Priorização:
       - MoSCoW: Priorization/moscow.md
     - Modelagem:
