@@ -1,3 +1,6 @@
+### Introdução 
+Trata-se de uma estratégia reconhecida para compreender as interações entre ambientes e sistemas, assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fluxo.
+ 
 ### C01 - Pesquisar Placa de Veículo
 Título | Veículos
 ------ | --------

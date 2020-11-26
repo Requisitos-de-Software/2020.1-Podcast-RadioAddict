@@ -1,3 +1,7 @@
+### Introdução
+Casos de Uso são utilizados para descrever um conjunto de ações que um sistema ou um conjunto de sistemas deve desempenhar em colaboração com um ou mais usuários externos ao sistema. Essa descrição é feita a partir de um Diagrama de casos de uso em conjuntos com as especificações dos casos, onde é possível observar uma breve descrição e um fluxo de utilização de cada caso.
+
+
 ### Mandados
 
 ![UseCaseMandado](../Images/mandado_prisao.png)
@@ -7,7 +11,7 @@ Sigla | Definição
 Versão | 1.0
 Autor | Todos
 Descrição | Buscar por mandados de prisão
-Ator | Sinesp e Usuários
+Ator | Policial/Cidadão
 Pré-condições | Usuário ter acesso ao aplicativo
 Fluxo Principal | - Usuário ter acesso o Sinesp</br> - Usuário busca pelo nome ou apelido da pessoa
 Fluxo Alternativo | Não existe
@@ -24,7 +28,7 @@ Sigla | Definição
 Versão | 1.0
 Autor | Todos
 Descrição | Buscar por desaparecidos
-Ator | Sinesp e Usuários
+Ator | Policial/Cidadão
 Pré-condições | Usuário ter acesso ao aplicativo
 Fluxo Principal | - Usuário ter acesso o Sinesp</br> - Usuário seleciona uma pessoa da lista
 Fluxo Alternativo | Não existe
@@ -41,7 +45,7 @@ Sigla | Definição
 Versão | 1.0
 Autor | Todos
 Descrição | Consultar registro de roubo de um carro
-Ator | Sinesp e Usuários
+Ator | Policial/Cidadão
 Pré-condições | Usuário ter acesso ao aplicativo
 Fluxo Principal | - Usuário ter acesso o Sinesp</br> - Usuário insere as informações da placa do veículo
 Fluxo Alternativo | Não existe
@@ -54,3 +58,4 @@ Data | Versão | Descrição | Autor
 ------ | --------- | ---------- | --------
 08/10/2020 | 1.0 | Criação do Use Case | Paulo
 08/10/2020 | 1.1 | Revisão | Itallo
+25/11/2020 | 2.0 | mar autore, introdução | itallo

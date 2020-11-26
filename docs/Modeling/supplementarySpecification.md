@@ -51,14 +51,18 @@ As funcionalidade já elicitadas até o momento podem ser encontradas por toda a
     * Para a lista de desaparecidos, a adição de uma foto para tal pessoa só deve ser permitida caso o usuário esteja logado com uma conta gov.br, permitindo, assim, que a foto não seja adicionada/alterada por qualquer pessoa.
 * **Disponibilidade.**
     * Os servidores e base de dados do aplicativo devem mantê-lo disponível e atualizado frequentemente para que, assim, seja possível realizar buscas e obter dados atualizados.
+    * O sistema deve assegurar pesquisas taxa de erro: 1 caso em 100.
 
 ## Performance
 * **Tempo de resposta na busca na base de dados.**
+    * Tempo de resposta: o tempo de resposta do aplicativo deve ser de no máximo 10 segundos.
     * O tempo de resposta da requisição de uma busca ou inserção de dados deve ser rápida ou, na melhor das hipóteses, instantânea, já que caso haja um furto ou roubo de carro, ou alguém suspeito seja visto em local público, ou um desaparecido possa ter sido reconhecido, seja possível ter acesso a base de dados.
+    * Dependabilidade do sistema: caso ocorra a perda da conexão do sistema com o banco de dados do governo nenhuma ferramenta irá funcionar. 
+
 
 ## Suportabilidade
 <p style="text-align: justify;"> &emsp;&emsp;
-O aplicativo está disponível para os sistemas operacionais mobile Android, nas versões 4.1.x ou superior e IOS, nas versões 9.0 ou superior.
+A aplicação está disponível em todas as plataformas: Android (4.1.xou superior ), iOS(iOS 9.0 ou superior) e Navegadores. 
 </p>
 
 ### Referências
@@ -70,3 +74,4 @@ O aplicativo está disponível para os sistemas operacionais mobile Android, nas
 Data | Versão | Descrição | Autor
 ---- | ------ | --------- | -----
 08/10/2020 | 1.0 | Criação da Especificação Suplementar | Fellipe
+25/11/2020 | 2.0 | Arrumando pontos do feedback | itallo
