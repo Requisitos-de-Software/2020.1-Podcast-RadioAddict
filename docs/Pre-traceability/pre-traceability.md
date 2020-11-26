@@ -25,6 +25,10 @@ O Rich Picture é uma modelagem cuja notação permite analisar problemas e expr
 
 ![RP Visão Geral Digital](Images/../../Images/richpictures/rp-geral-digital.png)
 
+## RP03 Visão Geral - 2.0
+
+![RP Visão Geral Digital](Images/../../Images/richpictures/rp-geral-final.png)
+
 ## Referências
 
 [SERRANO, Maurício; SERRANO, Milene; Requisitos – Aula 04](https://aprender3.unb.br/pluginfile.php/501252/mod_resource/content/3/Requisitos%20-%20Aula%2004%20-%20Parte%202%20RichPicture.pdf)
@@ -34,3 +38,4 @@ Data | Versão | Descrição | Autor
 ------ | --------- | ---------- | --------
 07/09/2020 | 1.0 | Criação dos Rich Pictures | Paulo
 06/11/2020 | 1.1 | Criação da página e da Introdução, Adição da Referência e do Versionamento | Fellipe
+25/11/2020 | 1.3 | Atualização dos Rich Pictures | Paulo
