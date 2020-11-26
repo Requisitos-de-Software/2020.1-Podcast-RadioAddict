@@ -34,18 +34,42 @@ ocorram, serão rastreadas no versionamento da página.
 </p>
 
 Atividade   |   Data    |   O que deve ser apresentado
------------ | --------- | ------------------------------ 
-  Ponto de Controle 1   |   07/09   |   Apresentar a equipe, App selecionado para o projeto da disciplina, Ferramentas do projeto, cronograma das atividades.
-  Ponto de Controle 2   |   28/09   |   Apresentação do projeto: Elicitação – Técnicas e Priorização
-  Ponto de Controle 3   |   09/10   |   Entrega da apresentação do projeto: Modelagem de Requisitos: Cenários , Léxico, Use Case, Especificação Suplementar
-  Ponto de Controle 4   |   28/10   |   Entrega da apresentação do projeto: Modelagem de Requisitos - Ágil(Histórias de Usuário, Backlogs, NFR Framework)
-  Ponto de Controle 5   |   09/11   |   Entrega da apresentação do projeto: Análise de Requisitos: Verificação e Validação
-  Ponto de Controle 6   |   26/11   |   Entrega da apresentação do projeto final
+----------- | --------- | ------------------------------
+  <i></i>| 02/09 | Reunião inicial do grupo para definir o app
+  Reuniões | 04/09 | Divisão das tarefas
+  <i></i>| 06/09 | Gravação da apresentação 
+  **Ponto de Controle 1**   |   07/09   |   Apresentar a equipe, App selecionado para o projeto da disciplina, Ferramentas do projeto, cronograma das atividades.
+  <i></i>| 15/09 | Divisão das tarefas
+  Reuniões | 24/09 | Controle das ativides
+  <i></i>| 26/09 | Realização das atividades em conjunto
+  <i></i>| 27/09 | Gravação da apresentação
+  **Ponto de Controle 2**   |   28/09   |   Apresentação do projeto: Elicitação – Técnicas e Priorização
+  <i></i>| 01/09 | Correção de documentos
+  Reuniões | 03/10 | Divisão das tarefas
+  <i></i>| 06/10 | Realização das atividades em conjunto
+  <i></i>| 08/10 | Gravação da apresentação
+  **Ponto de Controle 3**   |   09/10   |   Entrega da apresentação do projeto: Modelagem de Requisitos: Cenários , Léxico, Use Case, Especificação Suplementar
+  <i></i>| 13/10 | Correção de documentos
+  <i></i>| 15/10 | Divisão das tarefas
+  Reuniões| 19/10 | Realização das atividades em conjunto
+  <i></i>| 27/10 | Realização das atividades pendentes
+  <i></i>| 28/10 | Gravação da apresentação 
+  **Ponto de Controle 4**   |   28/10   |   Entrega da apresentação do projeto: Modelagem de Requisitos - Ágil(Histórias de Usuário, Backlogs, NFR Framework)
+  <i></i>| 01/11 | Divisão das tarefas
+  <i></i>| 03/11 | Correção de documentos
+  Reuniões| 07/11 | Realização das atividades em conjunto
+  <i></i>| 08/11 | Gravação da apresentação 
+  **Ponto de Controle 5**   |   09/11   |   Entrega da apresentação do projeto: Análise de Requisitos: Verificação e Validação
+  <i></i>| 13/11 | Divisão das tarefas
+  Reuniões| 17/11 | Análise das correções que deverão ser realizadas
+  <i></i>| 25/11 | Gravação da apresentação
+  **Ponto de Controle 6**  |   26/11   |   Entrega da apresentação do projeto final
 
 ## Ferramentas Utilizadas
 
 Ferramenta    |   Nome    |   Descrição 
 ------------  | --------- | -------------
+![logo sinesp](../Images/Sinesp.png) | [Sinesp](https://play.google.com/store/apps/details?id=br.gov.sinesp.cidadao.android&hl=pt_BR) | O Sinesp Cidadão é um aplicativo do Sistema Nacional de Informações de Segurança Pública
 ![logo zenhub](../Images/ZenHub_logo.png) | [ZenHub](https://www.zenhub.com) | Subsistema no GitHub que permite gestão ágil do projeto/grupo com interface KanBan
 ![logo GitHub](../Images/GitHub_logo.png) | [Github](https://github.com/) | Plataforma que será utilizada para gerir e unificar aquilo que o grupo desenvolver
 ![logo Drive](../Images/GoogleDrive_logo.png) | [Google Drive](https://www.google.com/intl/pt-BR/drive/) | Plataforma para permitir a edição simultânea de arquivos por todos do grupo
@@ -62,3 +86,4 @@ Data | Versão | Descrição | Autor
 ------ | --------- | ---------- | --------
 15/09/2020 | 1.0 | Criação do documento| Todos
 11/11/2020 | 1.1 | Adicionado a ferramenta Figma | Rafael Ribeiro
+25/11/2020 | 2.0 | Atualizado o cronograma, adicionado o Sinesp nas ferramentas | Rafael Ribeiro
