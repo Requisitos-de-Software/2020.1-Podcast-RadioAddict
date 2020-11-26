@@ -21,7 +21,7 @@ Rastreabilidade | Baseado no requisito funcional 01 - Oferecer informações de 
 
 ### Desaparecidos
 
-![UseCaseDesaparecido](../Images/desaparecidos.png)
+![UseCaseDesaparecido](../Images/desaparecidos.jpg)
 
 Sigla | Definição
 ----- | ---------
