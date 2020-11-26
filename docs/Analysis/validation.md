@@ -29,8 +29,10 @@ O protótipo é a primeira versão desenvolvida de um software a qual tem a fina
 requisitos e apresentar a viabilidade do sistema. Os protótipos desenvolvidos para fins de elicitação de requisitos são usados posteriormente para validação desses requisitos. Esse foi o segundo método escolhido para a validação dos requisitos, pois não foi possível dar continuidade no método anterior.
 
 ### Prototipação de Alta Fidelidade
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/proto/wZmdIQJc8hYgG2df9zaao4/Sinesp?node-id=7%3A6&scaling=scale-down" allowfullscreen></iframe>
- 
+<center>
+[![Confiabilidade ](../Images/Prototipação de Alta Fidelidade.png)](https://www.figma.com/proto/wZmdIQJc8hYgG2df9zaao4/Sinesp?node-id=7%3A6&scaling=scale-down)
+</center>
+
 ### Referências
 
 [Ajax, Ricardo. Slides Conceitos Fundamentais - V&V + Erro, defeito, falha](https://aprender3.unb.br/pluginfile.php/329508/mod_resource/content/2/A4%20-%20TS%20-%20206580_Conceitos%20Fundamentais%20-%20%281%29%20Ver%20Val%20Erro%20Defeito%20Falha.pdf). Acesso em: 08/11/2020.
