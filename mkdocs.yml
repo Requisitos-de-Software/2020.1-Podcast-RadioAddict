@@ -6,6 +6,9 @@ nav:
     - Panejamento: Planning/planning.md
     - Pré-Rastreabilidade:
       - Rich picture: Pre-traceability/pre-traceability.md
+    - Pós-Rastreabilidade:
+      - Backward From: Post-traceability/backward-from.md
+      - Forward From: Post-traceability/forward-from.md
     - Elicitação:
       - Brainstorming: Elicitation/brainstorming.md
       - Introspecção: Elicitation/introspection.md
