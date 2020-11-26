@@ -1,4 +1,4 @@
-# Matriz backward-from
+# Matriz forward-from
 
 ## Introdução
 
