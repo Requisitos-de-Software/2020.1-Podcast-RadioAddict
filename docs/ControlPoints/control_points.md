@@ -23,6 +23,11 @@
 [![PC5](http://img.youtube.com/vi/YAIxODxEazo/0.jpg)](http://www.youtube.com/watch?v=YAIxODxEazo "PC5")
 </center>
 
+### Ponto de Controle Final
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8eAOSQ9ff7w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
 ## Versionamento
 Data | Versão | Descrição | Autor 
 ------ | --------- | ---------- | --------
@@ -30,3 +35,4 @@ Data | Versão | Descrição | Autor
 09/10/2020 | 1.1 | Adição do vídeo da apresentação do ponto de controle 3 | Fellipe e Itallo
 28/10/2020 | 1.2 | Adição do vídeo da apresentação do ponto de controle 4 | Fellipe e Itallo
 12/11/2020 | 1.3 | Adição do vídeo da apresentação do ponto de controle 5 | Fellipe e Itallo
+30/11/2020 | 1.4 | Adição do vídeo da apresentação do ponto de controle Final | Fellipe e Itallo
